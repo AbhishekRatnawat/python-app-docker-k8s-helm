@@ -1,4 +1,4 @@
-# python-ms
+# A basic python flask app which is deployed using k8s deployments and also with Helm
 
  - initiate virtual environment: python3 -m venv python-ms
  - Activate virtual environment: source python-ms/bin/activate
